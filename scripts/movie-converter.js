@@ -16,4 +16,3 @@ export const generateMoviesHTML = () => {
  
     return movieHTML
  };
- console.log(movieHTML)
