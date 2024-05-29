@@ -1,0 +1,12 @@
+/* ```css */
+#movie-list {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 20px;
+ padding: 20px;
+}
+/* ``` */
+/* ```html */
+<link rel="stylesheet" href="./styles/layout.css">
+/* ``` */
